@@ -1,0 +1,4 @@
+C:\Users\hoany\source\repos\Solution1\DemoExtension_LinQ\obj\x64\Release\net8.0\DemoExtension_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoany\source\repos\Solution1\DemoExtension_LinQ\obj\x64\Release\net8.0\DemoExtension_LinQ.AssemblyInfoInputs.cache
+C:\Users\hoany\source\repos\Solution1\DemoExtension_LinQ\obj\x64\Release\net8.0\DemoExtension_LinQ.AssemblyInfo.cs
+C:\Users\hoany\source\repos\Solution1\DemoExtension_LinQ\obj\x64\Release\net8.0\DemoExtension_LinQ.csproj.CoreCompileInputs.cache

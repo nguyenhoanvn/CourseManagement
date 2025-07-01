@@ -1,0 +1,26 @@
+﻿<Window x:Class="CourseManagement.AttendanceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseManagement"
+        mc:Ignorable="d"
+        Title="AttendanceWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel x:Name="wrapper" Orientation="Vertical" Margin="10,10,10,10">
+            <StackPanel x:Name="cbCourseWrapper">
+                <ComboBox Width="300" Margin="0,0,0,10">
+                    <ComboBoxItem></ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel x:Name="cbDateWrapper">
+                <ComboBox Width="300" Margin="0,0,0,10">
+                    <ComboBoxItem></ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel>
+                
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

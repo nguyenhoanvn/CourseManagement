@@ -1,0 +1,14 @@
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\DelegateTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\DelegateTest.AssemblyInfoInputs.cache
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\DelegateTest.AssemblyInfo.cs
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\DelegateTest.csproj.CoreCompileInputs.cache
+C:\Users\hoany\source\repos\Solution1\DelegateTest\bin\Debug\net8.0\DelegateTest.exe
+C:\Users\hoany\source\repos\Solution1\DelegateTest\bin\Debug\net8.0\DelegateTest.deps.json
+C:\Users\hoany\source\repos\Solution1\DelegateTest\bin\Debug\net8.0\DelegateTest.runtimeconfig.json
+C:\Users\hoany\source\repos\Solution1\DelegateTest\bin\Debug\net8.0\DelegateTest.dll
+C:\Users\hoany\source\repos\Solution1\DelegateTest\bin\Debug\net8.0\DelegateTest.pdb
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\DelegateTest.dll
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\refint\DelegateTest.dll
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\DelegateTest.pdb
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\DelegateTest.genruntimeconfig.cache
+C:\Users\hoany\source\repos\Solution1\DelegateTest\obj\Debug\net8.0\ref\DelegateTest.dll

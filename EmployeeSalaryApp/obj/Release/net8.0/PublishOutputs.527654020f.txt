@@ -1,0 +1,7 @@
+M:\app\EmployeeSalaryApp.exe
+M:\app\data.txt
+M:\app\data2.txt
+M:\app\EmployeeSalaryApp.dll
+M:\app\EmployeeSalaryApp.deps.json
+M:\app\EmployeeSalaryApp.runtimeconfig.json
+M:\app\EmployeeSalaryApp.pdb

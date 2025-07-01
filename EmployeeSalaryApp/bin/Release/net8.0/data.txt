@@ -1,0 +1,19 @@
+1|Hoang|1000.00|manager
+2|Nga|950.00|developer
+3|Duong|500.00|tester
+4|Dung|100.00|asds
+5| Minh Tran |750.00|DEV
+6||600.00|manager
+7|Lan|0.00|developer
+8|Phong|9999999.99|tester
+9|Viet|abc|manager
+10|Thuy|-500.00|dev
+abc|Hieu|800.00|tester
+1|Tuan|1200.00|manager
+12|Khanh|650.00|
+13|Nam|700.00|consultant
+14|Quynh
+|Son|850.00|developer
+16|Hung|900.00|manager|extra
+17| Linh |invalid|dev
+19|An|1000.00|MANAGER

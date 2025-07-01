@@ -1,0 +1,14 @@
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\bin\x64\Release\net8.0\ExamplePrototype.exe
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\bin\x64\Release\net8.0\ExamplePrototype.deps.json
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\bin\x64\Release\net8.0\ExamplePrototype.runtimeconfig.json
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\bin\x64\Release\net8.0\ExamplePrototype.dll
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\bin\x64\Release\net8.0\ExamplePrototype.pdb
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\ExamplePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\ExamplePrototype.AssemblyInfoInputs.cache
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\ExamplePrototype.AssemblyInfo.cs
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\ExamplePrototype.csproj.CoreCompileInputs.cache
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\ExamplePrototype.dll
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\refint\ExamplePrototype.dll
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\ExamplePrototype.pdb
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\ExamplePrototype.genruntimeconfig.cache
+C:\Users\hoany\source\repos\Solution1\ExamplePrototype\obj\x64\Release\net8.0\ref\ExamplePrototype.dll

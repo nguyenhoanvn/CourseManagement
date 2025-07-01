@@ -1,0 +1,16 @@
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\bin\Release\net8.0\data.txt
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\bin\Release\net8.0\data2.txt
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\bin\Release\net8.0\EmployeeSalaryApp.exe
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\bin\Release\net8.0\EmployeeSalaryApp.deps.json
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\bin\Release\net8.0\EmployeeSalaryApp.runtimeconfig.json
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\bin\Release\net8.0\EmployeeSalaryApp.dll
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\bin\Release\net8.0\EmployeeSalaryApp.pdb
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\EmployeeSalaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\EmployeeSalaryApp.AssemblyInfoInputs.cache
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\EmployeeSalaryApp.AssemblyInfo.cs
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\EmployeeSalaryApp.csproj.CoreCompileInputs.cache
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\EmployeeSalaryApp.dll
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\refint\EmployeeSalaryApp.dll
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\EmployeeSalaryApp.pdb
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\EmployeeSalaryApp.genruntimeconfig.cache
+C:\Users\hoany\source\repos\Solution1\EmployeeSalaryApp\obj\Release\net8.0\ref\EmployeeSalaryApp.dll

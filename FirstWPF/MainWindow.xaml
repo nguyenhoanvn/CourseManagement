@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfButtonGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Button Grid" Height="1200" Width="1050">
+    <StackPanel Margin="10">
+        <Button Name="AddButton" Content="Add Button" Height="90" Width="300" Margin="0,0,0,10"/>
+        <Grid Name="ButtonGrid" Margin="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </StackPanel>
+</Window>

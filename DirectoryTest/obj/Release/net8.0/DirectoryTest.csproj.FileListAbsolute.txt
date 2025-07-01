@@ -1,0 +1,14 @@
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\bin\Release\net8.0\DirectoryTest.exe
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\bin\Release\net8.0\DirectoryTest.deps.json
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\bin\Release\net8.0\DirectoryTest.runtimeconfig.json
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\bin\Release\net8.0\DirectoryTest.dll
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\bin\Release\net8.0\DirectoryTest.pdb
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\DirectoryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\DirectoryTest.AssemblyInfoInputs.cache
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\DirectoryTest.AssemblyInfo.cs
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\DirectoryTest.csproj.CoreCompileInputs.cache
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\DirectoryTest.dll
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\refint\DirectoryTest.dll
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\DirectoryTest.pdb
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\DirectoryTest.genruntimeconfig.cache
+C:\Users\hoany\source\repos\Solution1\DirectoryTest\obj\Release\net8.0\ref\DirectoryTest.dll

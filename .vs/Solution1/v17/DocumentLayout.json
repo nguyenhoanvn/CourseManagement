@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoany\\source\\repos\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1DA379-B467-428E-A779-F1874B32ADCA}|CourseManagement\\CourseManagement.csproj|c:\\users\\hoany\\source\\repos\\solution1\\coursemanagement\\studentswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F1DA379-B467-428E-A779-F1874B32ADCA}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\studentswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1DA379-B467-428E-A779-F1874B32ADCA}|CourseManagement\\CourseManagement.csproj|c:\\users\\hoany\\source\\repos\\solution1\\coursemanagement\\studentswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1DA379-B467-428E-A779-F1874B32ADCA}|CourseManagement\\CourseManagement.csproj|solutionrelative:coursemanagement\\studentswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 353,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hoany\\source\\repos\\Solution1\\CourseManagement\\StudentsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CourseManagement\\StudentsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hoany\\source\\repos\\Solution1\\CourseManagement\\StudentsWindow.xaml.cs",
+              "RelativeToolTip": "CourseManagement\\StudentsWindow.xaml.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAK4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:52:33.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hoany\\source\\repos\\Solution1\\CourseManagement\\StudentsWindow.xaml",
+              "RelativeDocumentMoniker": "CourseManagement\\StudentsWindow.xaml",
+              "ToolTip": "C:\\Users\\hoany\\source\\repos\\Solution1\\CourseManagement\\StudentsWindow.xaml",
+              "RelativeToolTip": "CourseManagement\\StudentsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T17:46:27.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 47,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+C:\Users\hoany\source\repos\Solution1\DemoPrototype\obj\Release\net8.0\DemoPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoany\source\repos\Solution1\DemoPrototype\obj\Release\net8.0\DemoPrototype.AssemblyInfoInputs.cache
+C:\Users\hoany\source\repos\Solution1\DemoPrototype\obj\Release\net8.0\DemoPrototype.AssemblyInfo.cs
+C:\Users\hoany\source\repos\Solution1\DemoPrototype\obj\Release\net8.0\DemoPrototype.csproj.CoreCompileInputs.cache
