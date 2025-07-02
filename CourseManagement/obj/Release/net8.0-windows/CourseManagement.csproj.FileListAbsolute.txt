@@ -147,3 +147,6 @@ C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Release\net8.0-window
 C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Release\net8.0-windows\ref\CourseManagement.dll
 C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Release\net8.0-windows\EditStudentWindow.g.cs
 C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Release\net8.0-windows\EditStudentWindow.baml
+C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Release\net8.0-windows\AttendanceWindow.g.cs
+C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Release\net8.0-windows\AttendanceWindow.baml
+C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Release\net8.0-windows\CourseManagement.sourcelink.json

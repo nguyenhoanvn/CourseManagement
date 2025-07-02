@@ -147,3 +147,6 @@ C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Debug\net8.0-windows\
 C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Debug\net8.0-windows\CourseSchedulesWindow.baml
 C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Debug\net8.0-windows\EditStudentWindow.baml
 C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Debug\net8.0-windows\StudentsWindow.baml
+C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Debug\net8.0-windows\AttendanceWindow.g.cs
+C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Debug\net8.0-windows\AttendanceWindow.baml
+C:\Users\hoany\source\repos\Solution1\CourseManagement\obj\Debug\net8.0-windows\CourseManagement.sourcelink.json

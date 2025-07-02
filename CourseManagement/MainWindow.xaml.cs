@@ -38,6 +38,10 @@ namespace CourseManagement
             this.Close();
         }
 
-
+        private void btnAttendance_Click(object sender, RoutedEventArgs e)
+        {
+            AttendanceWindow attendanceWindow = new AttendanceWindow();
+            attendanceWindow.ShowDialog();
+        }
     }
 }

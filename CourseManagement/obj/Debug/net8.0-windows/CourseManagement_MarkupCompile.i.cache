@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\hoany\source\repos\Solution1\CourseManagement\App.xaml
-51363382920
+6329503033
 
-241072902397
+26470002788
 244-1512851311
-AddEditEntityWindow.xaml;CourseSchedulesWindow.xaml;EditStudentWindow.xaml;MainWindow.xaml;StudentsWindow.xaml;
+AddEditEntityWindow.xaml;AttendanceWindow.xaml;CourseSchedulesWindow.xaml;EditStudentWindow.xaml;MainWindow.xaml;StudentsWindow.xaml;
 
 False
 

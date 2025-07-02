@@ -10,6 +10,7 @@
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="80">
             <Button Name="btnSchedule" Content="Schedules" Width="80" Margin="5" Click="btnSchedule_Click"></Button>
             <Button Name="btnStudent" Content="Students" Width="80" Margin="5" Click="btnStudent_Click"></Button>
+            <Button Name="btnAttendance" Content="Attendance" Width="80" Margin="5" Click="btnAttendance_Click"></Button>
         </StackPanel>
     </Grid>
 </Window>
